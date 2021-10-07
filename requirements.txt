@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 keras
-PIL
-os
-cv2
+tensorflow
+Pillow
+opencv-python
