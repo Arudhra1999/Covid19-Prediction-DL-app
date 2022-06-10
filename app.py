@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import os
 import keras
 from keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.utils import img_to_array
 from keras.models import load_model
 import app1
 import app2
